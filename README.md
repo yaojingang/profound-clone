@@ -7,6 +7,24 @@
 
 ![stack](https://img.shields.io/badge/Next.js-16.4-black) ![react](https://img.shields.io/badge/React-19-blue) ![db](https://img.shields.io/badge/SQLite-WAL-green) ![ts](https://img.shields.io/badge/TypeScript-5-blue)
 
+## 截图
+
+| 营销官网（黑色主题） | Answer Engine Insights |
+|---|---|
+| ![营销官网](docs/screenshots/home.jpg) | ![Answer Engine Insights](docs/screenshots/insights.jpg) |
+
+| 引用分析 | Prompt Volumes |
+|---|---|
+| ![引用分析](docs/screenshots/citations.jpg) | ![Prompt Volumes](docs/screenshots/prompts.jpg) |
+
+| Agent 与运行 trace | Aim 对话助手 |
+|---|---|
+| ![Agent 详情](docs/screenshots/agent-detail.jpg) | ![Aim 对话助手](docs/screenshots/aim.jpg) |
+
+| Pricing | 管理后台（深色主题） |
+|---|---|
+| ![Pricing](docs/screenshots/pricing.jpg) | ![管理后台](docs/screenshots/admin.jpg) |
+
 ## 界面一览
 
 | 层 | 路由 | 主题 | 内容 |
